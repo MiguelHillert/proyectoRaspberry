@@ -4,10 +4,6 @@
 
 ---
 
-[Imagen]
-
----
-
 [Explicación Proyecto]
 
 ---
