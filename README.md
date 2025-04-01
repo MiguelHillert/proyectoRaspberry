@@ -8,6 +8,10 @@
 
 ---
 
+[Comandos Utilizados]
+
+---
+
 [Descargar Video]
 
 ---
