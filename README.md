@@ -8,7 +8,7 @@ En este proyecto utilizamos dos sensores conectados a una Raspberry Pi 4 y lo co
 
 ---
 
-<p align="center"><img src="img/zumbadorPulsador.png" alt="zumbPuls" width="40%"></p>
+<p align="center"><img src="img/zumbadorPulsador.png" alt="zumbPuls" width="30%"></p>
 
 ---
 
