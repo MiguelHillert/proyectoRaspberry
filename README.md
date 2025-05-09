@@ -4,7 +4,7 @@
 
 ---
 
-[Explicación Proyecto]
+En este proyecto utilizamos dos sensores conectados a una Raspberry Pi 4 y lo configuramos para que funcione. El **Zumbador** (*primer sensor*) realiza un sonido al pulsar el **Pulsador** (*segundo sensor*).
 
 ---
 
